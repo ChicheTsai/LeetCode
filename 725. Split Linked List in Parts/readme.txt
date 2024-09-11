@@ -4,4 +4,4 @@ Data Structure: linked list
 
 Algorithm: Iteration
 
-Need to notice
+Need to notice: pointer to pointer
