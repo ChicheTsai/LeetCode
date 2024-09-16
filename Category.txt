@@ -1,8 +1,9 @@
 LinkedList	Array	Pointer_to_Pointer	Bit_Operation	Stack	Queue	Recursive	BST		BinarySearch	TwoPointer	String
 21			108		725					476				1614			203			108		700				2000		1614
-203			3190						2220										700
+203			3190						2220			1021						700
 725			2000						1310
 2807		2419						2419
-2310		1310						2433
-			2433
-			807
+2130		1310						2433
+1290		2433
+2181		807
+			1021
